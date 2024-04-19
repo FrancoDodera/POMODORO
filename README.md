@@ -32,5 +32,5 @@ Las contribuciones son bienvenidas. Si tienes sugerencias de mejoras, caracterí
 
 ## Autor
 
-Este proyecto fue desarrollado por [Franco Rodriguez Dodera](enlace-a-tu-perfil-de-GitHub).
+Este proyecto fue desarrollado por [Franco Rodriguez Dodera](https://github.com/FrancoDodera).
 
